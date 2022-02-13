@@ -1,0 +1,36 @@
+body { background-image: url("background.jpg");}
+h1 {color: black;
+    font-size: 30px;
+    text-align: center;}
+
+p { font-family: verdana; font-size: 25px}
+
+h2 {color: royalblue;
+    font-size: 30px;
+    text-align: center;}
+
+h3 {color: brown;
+font-size: 30px;
+text-align: center;}
+p {font-family: verdana; font-size: 20px}
+
+h4 {color: rgb(240, 15, 15);
+    font-size: 30px;
+    text-align: center;}
+
+h5 {color: black;
+    font-size: 30px;}
+
+h6 {color: black;
+    font-size: 30px;}
+
+h7 {color: black;
+    font-size: 30px;}
+
+h8 {color: green;
+    font-size: 30px;
+    text-align: center;}
+
+
+
+
